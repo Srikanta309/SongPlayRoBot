@@ -1,7 +1,7 @@
 {
-    "name": "SongPlayRoBot",
-    "logo": "https://telegra.ph/file/cb7b0aead06c96955323e.jpg",
-    "description": "Grabs song from yt and sends it to telegram by @TamilBots",
+    "name": "ᎻᎬᎪꪜᎬƝ 𓆩🇽​𓆪 𝙏𝙧𝙖𝙘𝙠",
+    "logo": "https://telegra.ph/%E1%8E%BB%E1%8E%AC%E1%8E%AA%EA%AA%9C%E1%8E%AC%C6%9D-%F0%93%86%A9%F0%93%86%AA-%F0%9D%99%8F%F0%9D%99%A7%F0%9D%99%96%F0%9D%99%98%F0%9D%99%A0-07-11-2",
+    "description": "Grabs song from yt and sends it to telegram by @secret_societ ",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org.",
